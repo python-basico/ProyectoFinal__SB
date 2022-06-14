@@ -42,10 +42,10 @@ poetry-demo
 
 ## Entregables
 - **Semana 2 (15 jun.):** 
-  - Definición de problema. Debe ser un problema relacionado con su área de estudio y que se pueda dividir en módulos, analice algún problema que lo este desarrollando de forma manual y que pueda ser automatizado. Es importante que en el problema se realice operaciones numéricas con vectores, matrices. 
+  - Definición de problema. Debe ser un problema relacionado con su área de estudio y que se pueda dividir en módulos, analice algún problema que lo este desarrollando de forma manual y que pueda ser automatizado. Es importante que en el problema se realice operaciones numéricas con vectores, matrices. En su repositorio genere el archivo propuesta.txt.
  
 - **Semana 3 (22 jun.):** 
-  - Lista de funcionalidades del problema a automatizar.
+  - Lista de funcionalidades del problema a automatizar, en el mismo archivo propuesta.txt.
   - Implementación de funciones (30%)
   - Funcionamiento de aplicación por consola (empleando un menú).
    
@@ -84,7 +84,7 @@ La especificación del problema describe una lista de requisitos sobre la funcio
 
 Para obtener el máximo crédito por el proyecto final, deberá:
 
-1. Entregar una propuesta de proyecto antes del jueves 16 de junio. La descripción de la propuesta solo necesita ser de un párrafo. Debe describir en palabras lo que hará su proyecto final. Revisaré su propuesta lo antes posible y se le informara si es aceptable. Coloque la descripción de su propuesta en un archivo de texto llamado proposal.txt(o proposal.md si lo prefiere, markdown) y súbalo a través de github.
+1. Entregar una propuesta de proyecto antes del jueves 16 de junio. La descripción de la propuesta solo necesita ser de un párrafo. Debe describir en palabras lo que hará su proyecto final. Revisaré su propuesta lo antes posible y se le informara si es aceptable. Coloque la descripción de su propuesta en un archivo de texto llamado propuesta.txt(o propuesta.md si lo prefiere, markdown) y súbalo a través de github.
 
 2. En su proyecto deberá utilizar programación modular (uso de funciones), paquetes (poetry), la librería numpy y matplolib. 
 
